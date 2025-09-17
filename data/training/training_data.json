@@ -1,0 +1,62 @@
+[
+  {
+    "paper_text": "Abstract: The Google File System (GFS) is a scalable distributed file system for large distributed data-intensive applications. It provides fault tolerance while running on inexpensive commodity hardware, and it delivers high aggregate performance to a large number of clients. We have designed the file system to meet the rapidly growing demands of Google's data processing needs.",
+    "summary": "The Google File System (GFS) is a scalable, fault-tolerant distributed file system designed for large-scale data processing on commodity hardware at Google.",
+    "section_type": "abstract",
+    "pdf_url": "https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf"
+  },
+  {
+    "paper_text": "Abstract: MapReduce is a programming model and an associated implementation for processing and generating large data sets. Users specify a map function that processes a key/value pair to generate a set of intermediate key/value pairs, and a reduce function that merges all intermediate values associated with the same intermediate key.",
+    "summary": "MapReduce is a programming model and system for processing large data sets with a distributed algorithm on a cluster, enabling automatic parallelization and fault tolerance.",
+    "section_type": "abstract",
+    "pdf_url": "https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf"
+  },
+  {
+    "paper_text": "Abstract: Bigtable is a distributed storage system for managing structured data that is designed to scale to a very large size: petabytes of data across thousands of commodity servers. Many projects at Google store data in Bigtable, including web indexing, Google Earth, and Google Finance.",
+    "summary": "Bigtable is a scalable distributed storage system for managing structured data across thousands of servers, powering many Google services.",
+    "section_type": "abstract",
+    "pdf_url": "https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf"
+  },
+  {
+    "paper_text": "Abstract: The Chubby lock service is a distributed lock service intended for coarse-grained synchronization of activities within Google's distributed systems. Chubby has become a central part of Google's infrastructure, providing a reliable and highly available means of coordinating distributed systems.",
+    "summary": "Chubby is a highly available distributed lock service used by Google for synchronization and coordination in distributed systems.",
+    "section_type": "abstract",
+    "pdf_url": "https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf"
+  },
+  {
+    "paper_text": "Abstract: Dynamo is a highly available key-value storage system that some of Amazon's core services use to provide an 'always-on' experience. Dynamo sacrifices consistency under certain failure scenarios to ensure availability, partition tolerance, and performance.",
+    "summary": "Dynamo is Amazon's highly available key-value store that prioritizes availability and partition tolerance over strong consistency.",
+    "section_type": "abstract",
+    "pdf_url": "https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf"
+  },
+  {
+    "paper_text": "Abstract: The CAP theorem states that it is impossible for a distributed system to simultaneously provide all three of the following guarantees: Consistency, Availability, and Partition Tolerance. This paper explores the implications of the CAP theorem and discusses how distributed systems designers must make trade-offs among these properties.",
+    "summary": "The CAP theorem formalizes the trade-offs between consistency, availability, and partition tolerance in distributed systems.",
+    "section_type": "abstract",
+    "pdf_url": "https://cs.yale.edu/homes/dna/papers/cap-theorem.pdf"
+  },
+  {
+    "paper_text": "Abstract: Paxos is a family of protocols for solving consensus in a network of unreliable processors. This paper describes the Paxos algorithm, its correctness, and its practical applications in distributed systems.",
+    "summary": "Paxos is a consensus algorithm that enables a collection of unreliable processors to agree on a value, ensuring reliability in distributed systems.",
+    "section_type": "abstract",
+    "pdf_url": "https://lamport.azurewebsites.net/pubs/paxos-simple.pdf"
+  },
+  {
+    "paper_text": "Abstract: Raft is a consensus algorithm designed to be easy to understand. It is equivalent to Paxos in fault-tolerance and performance. Raft decomposes the consensus problem into three relatively independent subproblems: leader election, log replication, and safety. This paper describes the Raft algorithm and its implementation.",
+    "summary": "Raft is a consensus algorithm for distributed systems, designed to be understandable and to provide leader election, log replication, and safety.",
+    "section_type": "abstract",
+    "pdf_url": "https://raft.github.io/raft.pdf"
+  },
+  {
+    "paper_text": "Abstract: The Google Spanner system is a globally distributed database that supports externally consistent distributed transactions. Spanner is the first system to distribute data at global scale and support externally-consistent distributed transactions. This paper describes the design and implementation of Spanner.",
+    "summary": "Spanner is Google's globally distributed database that provides strong consistency and supports distributed transactions across data centers.",
+    "section_type": "abstract",
+    "pdf_url": "https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf"
+  },
+  {
+    "paper_text": "Abstract: The Hadoop Distributed File System (HDFS) is designed to reliably store very large files across machines in a large cluster. It provides high-throughput access to application data and is suitable for applications that have large data sets. This paper describes the architecture and design of HDFS.",
+    "summary": "HDFS is a distributed file system designed for reliable, scalable storage and high-throughput data access in large clusters.",
+    "section_type": "abstract",
+    "pdf_url": "https://hadoop.apache.org/docs/r1.2.1/hdfs_design.pdf"
+  }
+]
