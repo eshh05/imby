@@ -11,7 +11,6 @@ tags:
 # Research Paper Summarizer AI Agent
 
 [![Python](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 An intelligent multi-agent system that automates research paper analysis, summarization, and bibliography management using fine-tuned language models.
 
@@ -61,9 +60,9 @@ PDF Upload → Extractor → Planner → Summarizer (+RAG Context) → Bibliogra
 cd /path/to/research-paper-summarization  
 python -m venv venv  
 
-# Activate virtual environment  
-# Linux/macOS: source venv/bin/activate  
-# Windows: venv\Scripts\activate  
+ Activate virtual environment  
+ Linux/macOS: source venv/bin/activate  
+ Windows: venv\Scripts\activate  
 
 ### Step 2: Install Dependencies
 pip install --upgrade pip  
@@ -147,9 +146,6 @@ The system is evaluated using multiple metrics:
 
 ---
 
-## License
-
-MIT License - see LICENSE file for details  
 
 *For more setup and technical guidance, see [SETUP.md](SETUP.md)*  
 *For detailed design, see [ENGINEERING_DESIGN.md](ENGINEERING_DESIGN.md)*  
