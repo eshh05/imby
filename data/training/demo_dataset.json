@@ -1,0 +1,27 @@
+[
+  {
+    "paper_text": "\n                Abstract: This paper presents a novel approach to neural machine translation using transformer architectures. \n                We propose several improvements to the attention mechanism that result in better translation quality and faster training.\n                \n                Introduction: Neural machine translation has revolutionized the field of computational linguistics. \n                Traditional statistical methods have been largely replaced by neural approaches that can capture complex linguistic patterns.\n                \n                Methodology: We use a transformer-based architecture with multi-head attention. Our key innovation is the introduction \n                of sparse attention patterns that reduce computational complexity while maintaining translation quality.\n                \n                Results: Our method achieves state-of-the-art results on WMT datasets, improving BLEU scores by 2.3 points \n                over previous best methods while reducing training time by 40%.\n                \n                Conclusion: The proposed sparse attention mechanism offers a promising direction for efficient neural machine translation.\n                ",
+    "summary": "This paper introduces sparse attention mechanisms for transformer-based neural machine translation, achieving improved BLEU scores and faster training times on WMT datasets.",
+    "section_type": "full"
+  },
+  {
+    "paper_text": "\n                Abstract: We investigate the effectiveness of few-shot learning in natural language processing tasks. \n                Our experiments show that pre-trained language models can adapt to new tasks with minimal examples.\n                ",
+    "summary": "This study demonstrates that pre-trained language models can effectively adapt to new NLP tasks using few-shot learning with minimal training examples.",
+    "section_type": "abstract"
+  },
+  {
+    "paper_text": "\n                Introduction: Computer vision has made tremendous progress with deep learning. Convolutional neural networks \n                have become the standard approach for image classification, object detection, and semantic segmentation tasks.\n                Recent advances in attention mechanisms have further improved performance across various vision tasks.\n                ",
+    "summary": "Computer vision has advanced significantly through deep learning, with CNNs becoming standard for various tasks and attention mechanisms providing further improvements.",
+    "section_type": "introduction"
+  },
+  {
+    "paper_text": "\n                Methodology: We employ a ResNet-50 backbone with Feature Pyramid Networks for multi-scale feature extraction. \n                The detection head uses focal loss to address class imbalance. Data augmentation includes random cropping, \n                horizontal flipping, and color jittering. We train for 100 epochs with SGD optimizer and learning rate scheduling.\n                ",
+    "summary": "The methodology uses ResNet-50 with FPN for feature extraction, focal loss for class imbalance, standard data augmentation, and SGD optimization over 100 epochs.",
+    "section_type": "methodology"
+  },
+  {
+    "paper_text": "\n                Results: Our model achieves 92.3% accuracy on the test set, outperforming baseline methods by 4.2%. \n                The confusion matrix shows strong performance across all classes with minimal false positives. \n                Ablation studies confirm the importance of each component in our architecture.\n                ",
+    "summary": "The model achieves 92.3% test accuracy, surpassing baselines by 4.2% with strong cross-class performance and validated component importance through ablation studies.",
+    "section_type": "results"
+  }
+]

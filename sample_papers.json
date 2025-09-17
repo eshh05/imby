@@ -1,0 +1,82 @@
+[
+  {
+    "id": "paper_1",
+    "title": "Attention Is All You Need",
+    "authors": ["Ashish Vaswani", "Noam Shazeer", "Niki Parmar", "Jakob Uszkoreit", "Llion Jones", "Aidan N Gomez", "Łukasz Kaiser", "Illia Polosukhin"],
+    "year": 2017,
+    "venue": "NeurIPS",
+    "url": "https://arxiv.org/pdf/1706.03762.pdf"
+  },
+  {
+    "id": "paper_2",
+    "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+    "authors": ["Jacob Devlin", "Ming-Wei Chang", "Kenton Lee", "Kristina Toutanova"],
+    "year": 2019,
+    "venue": "NAACL",
+    "url": "https://arxiv.org/pdf/1810.04805.pdf"
+  },
+  {
+    "id": "paper_3",
+    "title": "ImageNet Classification with Deep Convolutional Neural Networks",
+    "authors": ["Alex Krizhevsky", "Ilya Sutskever", "Geoffrey E. Hinton"],
+    "year": 2012,
+    "venue": "NeurIPS",
+    "url": "https://www.cs.toronto.edu/~kriz/imagenet_classification_with_deep_convolutional.pdf"
+  },
+  {
+    "id": "paper_4",
+    "title": "Generative Adversarial Nets",
+    "authors": ["Ian J. Goodfellow", "Jean Pouget-Abadie", "Mehdi Mirza", "Bing Xu", "David Warde-Farley", "Sherjil Ozair", "Aaron Courville", "Yoshua Bengio"],
+    "year": 2014,
+    "venue": "NeurIPS",
+    "url": "https://arxiv.org/pdf/1406.2661.pdf"
+  },
+  {
+    "id": "paper_5",
+    "title": "Playing Atari with Deep Reinforcement Learning",
+    "authors": ["Volodymyr Mnih", "Koray Kavukcuoglu", "David Silver", "Andrei A. Rusu", "Joel Veness", "Marc G. Bellemare", "Alex Graves", "Martin Riedmiller", "Andreas K. Fidjeland", "Georg Ostrovski", "Stig Petersen", "Charles Beattie", "Amir Sadik", "Ioannis Antonoglou", "Helen King", "Dharshan Kumaran", "Daan Wierstra", "Shane Legg", "Demis Hassabis"],
+    "year": 2013,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/pdf/1312.5602.pdf"
+  },
+  {
+    "id": "paper_6",
+    "title": "Deep Residual Learning for Image Recognition",
+    "authors": ["Kaiming He", "Xiangyu Zhang", "Shaoqing Ren", "Jian Sun"],
+    "year": 2015,
+    "venue": "CVPR",
+    "url": "https://arxiv.org/pdf/1512.03385.pdf"
+  },
+  {
+    "id": "paper_7",
+    "title": "Mastering the game of Go with deep neural networks and tree search",
+    "authors": ["David Silver", "Aja Huang", "Chris J. Maddison", "Arthur Guez", "Laurent Sifre", "George van den Driessche", "Julian Schrittwieser", "Ioannis Antonoglou", "Veda Panneershelvam", "Marc Lanctot", "Sander Dieleman", "Dominik Grewe", "John Nham", "Nicolas Kalchbrenner", "Ilya Sutskever", "Timothy Lillicrap", "Madeleine Leach", "Koray Kavukcuoglu", "Thore Graepel", "Demis Hassabis"],
+    "year": 2016,
+    "venue": "Nature",
+    "url": "https://www.nature.com/articles/nature16961.pdf"
+  },
+  {
+    "id": "paper_8",
+    "title": "YOLOv3: An Incremental Improvement",
+    "authors": ["Joseph Redmon", "Ali Farhadi"],
+    "year": 2018,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/pdf/1804.02767.pdf"
+  },
+  {
+    "id": "paper_9",
+    "title": "DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter",
+    "authors": ["Victor Sanh", "Lysandre Debut", "Julien Chaumond", "Thomas Wolf"],
+    "year": 2019,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/pdf/1910.01108.pdf"
+  },
+  {
+    "id": "paper_10",
+    "title": "A Few Useful Things to Know about Machine Learning",
+    "authors": ["Pedro Domingos"],
+    "year": 2012,
+    "venue": "Communications of the ACM",
+    "url": "https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf"
+  }
+]
